@@ -2,11 +2,13 @@
 
 ## Tomei a iniciativa de criar esta aplicação de forma voluntária e sem fins lucrativos para a empresa onde trabalho como Suporte técnico.
 
-### A aplicação foi desenvolvida em Reactjs  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> e reúne as seguintes páginas:
+### O Front-End da aplicação foi desenvolvida em <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> e reúne as seguintes páginas:
 
-A página inicial, que contém apenas um Home com o Logo da empresa. home
+A página inicial, que contém apenas um Home com o Logo da empresa.
+![home](/imagesApp/app01.png)
 
-Uma página onde podemos consultar dados vindos de uma API que eu desenvolvi com NodeJs+expressNode-js. Essa API possui middlewares para criar, editar, inserir e excluir dados de uma tabela de dados MySQL.mysql home
+Uma página onde podemos consultar dados vindos de uma API que desenvolvi com <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+      <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>. Essa API possui middlewares para criar, editar, inserir e excluir dados de uma tabela de dados MySQL.mysql home
 
 A página contém uma sessão de procedimentos que usamos para auxiliar no treinamento de novos funcionários. Esses procedimentos estão documentados com prints e textos explicando como proceder em cada processo a ser executado pelos mesmos. procedimentos
 
