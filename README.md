@@ -1,6 +1,6 @@
 # Projeto_final_empresa
 
-## Tomei a iniciativa de criar esta aplicação de forma <b>voluntária e sem fins lucrativos</b> para a empresa onde trabalho como Suporte técnico.
+## Tomei a iniciativa de criar esta aplicação de forma <b>voluntária e sem fins lucrativos</b> para uma empresa.
 
 ### O Front-End da aplicação foi desenvolvida em <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> e reúne as seguintes páginas:
 
@@ -28,8 +28,10 @@ Essa API possui middlewares para criar, editar, inserir e excluir dados de uma t
 
 
 ## Aqui vai uma explicação detalhada de como a aplicação foi desenvolvida e onde eu vi a necessidade de criá-la.
- - Trabalhamos na parte de monitoramento de internet e atendemos muitos clientes. Com isso, temos uma ferramenta de alertas que nos traz dados como o nome dos locais e o que está sem conexão, como link primário e secundário. Também temos alertas de switches de rede que são muitos, e precisamos copiar as informações como: Local, Hostname, IP e Switch de borda. A forma 
-   que coletamos os dados desses switches de rede até então era em uma planilha do Excel do Office 365. Isso tornava a pesquisa lenta e muitas vezes acabávamos perdendo o acesso ao Office 365 por eventuais problemas técnicos.
+ - O Trabalho é na parte de monitoramento de internet onde atendem muitos clientes. Com isso, a empresa usa uma ferramenta de alertas que traz dados como o nome dos locais e o que está sem conexão, como links, energia, e switchs de redes.
+ Estes Switchs de redes são muitos, e a forma que coletam os dados desses switches até então era em uma planilha do Excel do Office 365. Isso tornava a pesquisa lenta e muitas vezes acabavam perdendo o acesso ao Office 365 por eventuais problemas técnicos.
 
- - Com isso, pensei em uma aplicação onde eu pudesse ter todos os dados localmente e uma forma mais rápida de copiar os dados. Foi então que fiz uma página onde de um lado carregasse uma tabela com todos os dados e ao lado de cada linha da tabela um botão que, ao clicar, adiciona o item selecionado para uma nova tabela à direita. Assim, você vai selecionando aqueles 
-   switches de redes que estariam alertando como down. Ao fim disso, ao clicar em um botão, você copia todas as informações de uma só vez para o clipboard do sistema operacional, tornando a o processo de abertura do chamado muito mais rápido.
+ - Com isso, pensei em uma aplicação onde eu pudesse ter todos os dados localmente e uma forma mais rápida de serem copiados. 
+   Foi então que fiz uma página onde de um lado carregasse uma tabela com todos os dados e ao lado de cada linha da tabela um botão que, ao clicar, adiciona o item selecionado para uma nova tabela à direita. Assim, você vai selecionando aqueles 
+   switches de redes que estariam constando como off-line.
+   Ao fim disso, ao clicar em um botão, você copia todas as informações de uma só vez para o clipboard do sistema operacional, tornando a o processo de abertura do chamado muito mais rápido.
