@@ -1,0 +1,7 @@
+node_modules
+build
+dist
+LICENSE
+package-lock.json
+.git
+.DS_Store

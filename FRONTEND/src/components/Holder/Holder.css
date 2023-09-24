@@ -1,0 +1,59 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerpai {
+    position: relative;
+    width: 400px;
+    border: 1px solid blue;
+    left: 30%;
+}
+
+.holder {
+
+    position: fixed;
+    top: 50px;
+    left: 50vw;
+    width: 35vw;
+    height: 70vh;
+    flex-shrink: 0;
+    border: 1px solid green;
+    overflow-x: auto;
+    overflow-y: scroll;
+
+}
+
+
+.holder-items {}
+
+
+
+.tabela {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid purple;
+    max-width: fit-content;
+    align-content: center;
+
+}
+
+.thead-holder .tr-holder {
+    background-color: rgb(212, 197, 178);
+
+}
+
+.thead-holder .tr-holder th {
+    position: relative;
+}
+
+.div-btn {
+    position: fixed;
+    top: 90%;
+    left: 50%;
+    border: 2px solid red;
+    width: 200px;
+}
+
+.btncopy {} */
