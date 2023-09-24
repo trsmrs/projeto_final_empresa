@@ -34,4 +34,4 @@ Essa API possui middlewares para criar, editar, inserir e excluir dados de uma t
  - Com isso, pensei em uma aplicação onde eu pudesse ter todos os dados localmente e uma forma mais rápida de serem copiados. 
    Foi então que fiz uma página onde de um lado carregasse uma tabela com todos os dados e ao lado de cada linha da tabela um botão que, ao clicar, adiciona o item selecionado para uma nova tabela à direita. Assim, você vai selecionando aqueles 
    switches de redes que estariam constando como off-line.
-   Ao fim disso, ao clicar em um botão, você copia todas as informações de uma só vez para o clipboard do sistema operacional, tornando a o processo de abertura do chamado muito mais rápido.
+   Ao fim disso, ao clicar em um botão, você copiaria todas as informações de uma só vez para o clipboard do sistema operacional, tornando a o processo de abertura do chamado muito mais rápido.
