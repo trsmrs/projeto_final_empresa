@@ -4,27 +4,27 @@
 
 ### O Front-End da aplicação foi desenvolvida em <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> e reúne as seguintes páginas:
 
-- A página inicial, que contém apenas um Home com o Logo da empresa.
+- A página inicial, que contém apenas um Home com o Logo da empresa.<br>
 ![home](/imagesApp/app01.png)
 
 - Uma página onde podemos consultar dados vindos de uma API que desenvolvi com <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>.
-Essa API possui middlewares para criar, editar, inserir e excluir dados de uma tabela de dados ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) \\
+Essa API possui middlewares para criar, editar, inserir e excluir dados de uma tabela de dados ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br>
 
 ![home](/imagesApp/app02.png)
 
-- Também foi criado uma sessão para editar, inserir, e excluir dados da tabela no banco de dados (CRUD), onde para acesso precisa passar por uma validação com senha. \\
+- Também foi criado uma sessão para editar, inserir, e excluir dados da tabela no banco de dados (CRUD), onde para acesso precisa passar por uma validação com senha. <br>
   ![home](/imagesApp/app03.png)
 
 - Aqui é a página de gerenciamento dos itens das tabelas. \
 ![home](/imagesApp/app04.png)
 
 
-- A página contém uma sessão de procedimentos que usamos para auxiliar no treinamento de novos funcionários. Esses procedimentos estão documentados com prints e textos explicando como proceder em cada processo a ser executado pelos mesmos. \\
+- A página contém uma sessão de procedimentos que usamos para auxiliar no treinamento de novos funcionários. Esses procedimentos estão documentados com prints e textos explicando como proceder em cada processo a ser executado pelos mesmos. <br>
    ![home](/imagesApp/app-02-01.png)
 
-- A página de Treinamentos possui uma droplist que ao clicar ela expande todos os procedimentos que vem de um array importado do arquivo "data.json" \\
-  ![home](/imagesApp/app-05.png)
+- A página de Treinamentos possui uma droplist que ao clicar ela expande todos os procedimentos que vem de um array importado do arquivo "data.json". <br>
+  ![home](/imagesApp/app05.png)
 
 
 ## Aqui vai uma explicação detalhada de como a aplicação foi desenvolvida e onde eu vi a necessidade de criá-la.
