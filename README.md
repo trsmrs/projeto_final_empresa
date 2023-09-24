@@ -1,6 +1,6 @@
-# projeto_final_empresa
+# Projeto_final_empresa
 
-## Tomei a iniciativa de criar esta aplicação de forma voluntária e sem fins lucrativos para a empresa onde trabalho como Suporte técnico.
+## Tomei a iniciativa de criar esta aplicação de forma <b>voluntária e sem fins lucrativos</b> para a empresa onde trabalho como Suporte técnico.
 
 ### O Front-End da aplicação foi desenvolvida em <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> e reúne as seguintes páginas:
 
