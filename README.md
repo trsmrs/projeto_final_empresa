@@ -9,25 +9,21 @@
 
 - Uma página onde podemos consultar dados vindos de uma API que desenvolvi com <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="expressjs" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>.
-Essa API possui middlewares para criar, editar, inserir e excluir dados de uma tabela de dados ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
---
+Essa API possui middlewares para criar, editar, inserir e excluir dados de uma tabela de dados ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) \
+
 ![home](/imagesApp/app02.png)
 
-- Também foi criado uma sessão para editar, inserir, e excluir dados da tabela no banco de dados (CRUD), onde para acesso precisa passar por uma validação com senha.
---
+- Também foi criado uma sessão para editar, inserir, e excluir dados da tabela no banco de dados (CRUD), onde para acesso precisa passar por uma validação com senha. \
   ![home](/imagesApp/app03.png)
 
-- Aqui é a página de gerenciamento dos itens das tabelas
---
+- Aqui é a página de gerenciamento dos itens das tabelas. \
 ![home](/imagesApp/app04.png)
 
 
-- A página contém uma sessão de procedimentos que usamos para auxiliar no treinamento de novos funcionários. Esses procedimentos estão documentados com prints e textos explicando como proceder em cada processo a ser executado pelos mesmos.
---
+- A página contém uma sessão de procedimentos que usamos para auxiliar no treinamento de novos funcionários. Esses procedimentos estão documentados com prints e textos explicando como proceder em cada processo a ser executado pelos mesmos. \
    ![home](/imagesApp/app-02-01.png)
 
-- A página de Treinamentos possui uma droplist que ao clicar ela expande todos os procedimentos que vem de um array importado do arquivo "data.json"
---
+- A página de Treinamentos possui uma droplist que ao clicar ela expande todos os procedimentos que vem de um array importado do arquivo "data.json" \
   ![home](/imagesApp/app-05.png)
 
 
