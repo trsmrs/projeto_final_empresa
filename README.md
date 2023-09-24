@@ -4,7 +4,7 @@
 
 ### O Front-End da aplicação foi desenvolvida em <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> e reúne as seguintes páginas:
 
-- A página inicial, que contém apenas um Home com o Logo da empresa.<br>
+- A página inicial, que contém apenas um Home com o Logo da empresa.<br><br>
 ![home](/imagesApp/app01.png)
 
 - Uma página onde podemos consultar dados vindos de uma API que desenvolvi com <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
