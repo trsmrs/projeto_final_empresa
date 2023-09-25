@@ -20,7 +20,7 @@ Essa API possui middlewares para criar, editar, inserir e excluir dados de uma t
 ![home](/imagesApp/app04.png)
 
 
-- A página contém uma sessão de procedimentos que usamos para auxiliar no treinamento de novos funcionários. Esses procedimentos estão documentados com prints e textos explicando como proceder em cada processo a ser executado pelos mesmos. <br><br>
+- A página contém uma sessão de procedimentos que serão usados para auxiliar no treinamento de novos funcionários. Esses procedimentos estão documentados com prints e textos explicando como proceder em cada processo a ser executado pelos mesmos. <br><br>
    ![home](/imagesApp/app-02-01.png)
 
 - A página de Treinamentos possui uma droplist que ao clicar ela expande todos os procedimentos que vem de um array importado do arquivo "data.json". <br><br>
